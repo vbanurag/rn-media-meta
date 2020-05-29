@@ -7,14 +7,14 @@ A React Native library to use fetch metadata, based on [react-native-media-meta]
 ## Installation
 
 ```bash
-$ npm install rn-media-meta --save
+$ npm install rn-meta-media --save
 $ react-native link
 ```
 
 ## Usage
 
 ```js
-import MediaMeta from 'rn-media-meta';
+import MediaMeta from 'rn-meta-media';
 const path = '<your file path here>';
 
 MediaMeta.get(path)

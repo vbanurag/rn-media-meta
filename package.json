@@ -1,5 +1,5 @@
 {
-  "name": "rn-media-meta",
+  "name": "rn-meta-media",
   "version": "0.0.20",
   "description": "Get media file metadata in your React Native app",
   "main": "index.js",

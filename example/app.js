@@ -8,7 +8,7 @@ import {
   NativeModules
 } from 'react-native';
 import fs from 'react-native-fs';
-import MediaMeta from 'rn-media-meta';
+import MediaMeta from 'rn-meta-meta';
 
 const savePath = fs.DocumentDirectoryPath + '/example.mp4';
 const videoURL = 'http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4';
