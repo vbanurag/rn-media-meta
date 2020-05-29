@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
   s.homepage     = 'n/a'
   s.authors      = { "ivpusic" => "" }
-  s.source       = { :git => "https://github.com/vbanurag/react-native-media-meta", :tag => 'v#{version}'}
+  s.source       = { :git => "https://github.com/vbanurag/rn-media-meta", :tag => 'v#{version}'}
   s.source_files = 'ios/RNMediaMeta/*.{h,m}'
   s.platform     = :ios, "8.0"
   s.dependency 'React-Core'
