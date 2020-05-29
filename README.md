@@ -1,6 +1,6 @@
 # React Native Media Meta [![NPM version](http://img.shields.io/npm/v/react-native-media-meta.svg?style=flat)](https://www.npmjs.com/package/react-native-media-meta)
 
-A React Native library to use fetch metadata, based on [react-native-google-cast](https://github.com/mybigday/react-native-media-meta)
+A React Native library to use fetch metadata, based on [react-native-media-meta](https://github.com/mybigday/react-native-media-meta)
 
 > Get media file metadata in your React Native app
 
