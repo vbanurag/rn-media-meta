@@ -7,7 +7,7 @@ A React Native library to use fetch metadata, based on [react-native-google-cast
 ## Installation
 
 ```bash
-$ npm install react-native-media-meta --save
+$ npm install rn-media-meta --save
 $ react-native link
 ```
 
