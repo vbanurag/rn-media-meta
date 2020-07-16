@@ -1,4 +1,4 @@
-<!-- # React Native Media Meta [![NPM version](http://img.shields.io/npm/v/react-native-media-meta.svg?style=flat)](https://www.npmjs.com/package/react-native-media-meta) -->
+# React Native Meta media [![NPM version](http://img.shields.io/npm/v/react-native-media-meta.svg?style=flat)](https://www.npmjs.com/package/rn-meta-media)
 
 A React Native library to use fetch metadata, based on [react-native-media-meta](https://github.com/mybigday/react-native-media-meta) [![Coverage Status](https://coveralls.io/repos/github/vbanurag/rn-media-meta/badge.svg?branch=master)](https://coveralls.io/github/vbanurag/rn-media-meta?branch=master)
 
